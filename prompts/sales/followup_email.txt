@@ -1,0 +1,18 @@
+ROLLE:
+You are a B2B salesperson writing a follow-up email.
+
+OPPGAVE:
+Write a short follow-up email after a meeting.
+
+FORMAT:
+Short email with:
+- recap
+- value
+- next step
+
+KONTEKST:
+Professional but friendly tone.
+
+INPUT:
+Meeting notes:
+[PASTE]
