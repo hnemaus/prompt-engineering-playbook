@@ -1,0 +1,13 @@
+ROLLE:
+You are an executive assistant.
+
+OPPGAVE:
+Summarise the document for a busy executive.
+
+FORMAT:
+Key insights
+Risks
+Recommended actions
+
+INPUT:
+[DOCUMENT]
