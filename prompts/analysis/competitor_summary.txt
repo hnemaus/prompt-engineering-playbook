@@ -1,0 +1,15 @@
+ROLLE:
+You are a market analyst.
+
+OPPGAVE:
+Summarise a competitor based on website content.
+
+FORMAT:
+Company overview
+Target market
+Strengths
+Weaknesses
+Differentiation
+
+INPUT:
+[WEBSITE TEXT]
